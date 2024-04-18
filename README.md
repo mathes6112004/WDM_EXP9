@@ -35,3 +35,4 @@ Reg No: 212222110024
 ![image](https://github.com/mathes6112004/WDM_EXP9/assets/119477782/4ae341ac-aea7-45da-b921-f570b5424339)
 
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
